@@ -1,30 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title>CODEBOOK.md</title>
-  <meta name="Author" content="John Schroeder">
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1504.83">
-  <style type="text/css">
-    p.p2 {margin: 0.0px 0.0px 10.0px 0.0px; line-height: 20.0px; font: 14.0px 'Helvetica Neue'; color: #333333; -webkit-text-stroke: #333333}
-    p.p3 {margin: 0.0px 0.0px 10.0px 0.0px; line-height: 20.0px; font: 14.0px 'Helvetica Neue'; color: #0088cc; -webkit-text-stroke: #0088cc}
-    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 12.0px Courier; color: #333333; -webkit-text-stroke: #333333; background-color: #f5f5f5}
-    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 12.0px Courier; color: #333333; -webkit-text-stroke: #333333; background-color: #ffffff}
-    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 13.0px Courier; color: #333333; -webkit-text-stroke: #333333; background-color: #f5f5f5; min-height: 16.0px}
-    p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 21.0px; font: 17.5px 'Helvetica Neue Light'; color: #333333; -webkit-text-stroke: #333333}
-    li.li2 {margin: 0.0px 0.0px 10.0px 0.0px; line-height: 20.0px; font: 14.0px 'Helvetica Neue'; color: #333333; -webkit-text-stroke: #333333}
-    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 14.0px 'Helvetica Neue'; color: #333333; -webkit-text-stroke: #333333}
-    span.s1 {font-kerning: none}
-    span.s2 {font: 14.0px 'Helvetica Neue'; font-kerning: none; color: #0088cc; -webkit-text-stroke: 0px #0088cc}
-    span.s3 {-webkit-text-stroke: 0px #000000}
-    ol.ol1 {list-style-type: decimal}
-    ul.ul1 {list-style-type: disc}
-    ul.ul2 {list-style-type: hyphen}
-  </style>
-</head>
-<body>
 <h1 style="margin: 0.0px 0.0px 10.0px 0.0px; line-height: 40.0px; font: 38.5px 'Helvetica Neue'; color: #333333; -webkit-text-stroke: #333333"><span class="s1"><b>CODEBOOK.md</b></span></h1>
 <h1 style="margin: 0.0px 0.0px 10.0px 0.0px; line-height: 40.0px; font: 38.5px 'Helvetica Neue'; color: #333333; -webkit-text-stroke: #333333"><span class="s1"><b>Getting and Cleaning Data Course Project</b></span></h1>
 <p class="p2"><span class="s1">Instructions for project The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with your script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.</span></p>
